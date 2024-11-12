@@ -1,6 +1,6 @@
 {
-    "api_url": "https://api.viaappdc.xyz/api",
-    "dashboard_invite_url": "https://discord.com/oauth2/authorize?client_id=1076161580489781309&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fviaappdc.xyz%2Fdashboard&scope=bot+connections",
-    "invite_url": "https://discord.com/oauth2/authorize?client_id=1076161580489781309&permissions=8&redirect_uri=https%3A%2F%2Fviaappdc.xyz%2Fdashboard&scope=bot",
-    "login_url": "https://discord.com/oauth2/authorize?client_id=1076161580489781309&response_type=code&redirect_uri=https%3A%2F%2Fviaappdc.xyz%2Fcallback&scope=identify+guilds"
+    "api_url": "",
+    "dashboard_invite_url": "",
+    "invite_url": "",
+    "login_url": ""
 }
