@@ -1,0 +1,102 @@
+{
+    "support": "Support",
+    "login": "Log in",
+    "add": "Add Discord",
+    "navbar": {
+        "commands": "Commands"
+    },
+    "home": {
+        "main_description": "You can effortlessly manage your Discord server with ViaApp in our modern, advanced control panel!",
+        "features": "Features",
+        "features_desc": "Perfect systems to strengthen your server are in ViaApp.",
+        "community": "Community",
+        "try": "Try ViaApp bot right away",
+        "faq": "FAQ",
+        "joincommunity": "Join Our Community",
+        "joincomunity_desc": "Join the amazing community of ViaApp Bot yourself.",
+        "faq_title": "Frequently Asked Questions",
+        "faq_desc": "Answers to all your questions about ViaApp are here.",
+        "privacy_policy": "Privacy Policy",
+        "faq_title_1": "What is the purpose of ViaApp?",
+        "faq_desc_1": "ViaApp tracks login and logout processes, performs role assignments, updates counters, and visualizes all these operations with images to designated channels.",
+        "faq_title_2": "How can I get support?",
+        "faq_desc_2": "You can summon the support team using the /support command.",
+        "faq_title_3": "What is the purpose of ViaApp?",
+        "faq_desc_3": "Yes, our bot is completely free! It's our fundamental principle to ensure all our users can use our bot easily and without any payment concerns."
+    },
+    "commands": {
+        "commands": "Commands",
+        "commands_desc": "You can review ViaApp's commands from here",
+        "command_search": "🔍 Search for commands",
+        "category_all": "All",
+        "category_moderation": "Moderation",
+        "category_systems": "Systems",
+        "category_guard": "Guard",
+        "category_ticket": "Ticket"
+    },
+    "policy": {
+        "privacy_policy": "Privacy Policy",
+        "privacy_policy_date": "Last update date:",
+        "privacy_desc": "This privacy policy provides information on how our ViaApp bot collects, uses, communicates, and stores information related to user privacy.",
+        "collected": "Collected Information",
+        "collected_desc": "ViaApp Bot may collect minimal information necessary to provide functionality on Discord servers. This information may include: User IDs, Server IDs, Message Content (for processed commands by the bot)",
+        "info": "Information Usage",
+        "info_desc": "The collected information will be used to enable, improve, and customize the services provided by ViaApp Bot. This information will be processed to manage interactions between users and servers.",
+        "info_sharing": "Information Sharing",
+        "info_sharing_desc": "ViaApp Bot, collected information will never be shared with third parties under any circumstances. User and server data is only used for the functionality of ViaApp Bot.",
+        "security": "Security",
+        "security_desc": "ViaApp Bot takes industry-standard security measures to protect the collected information. However, it cannot guarantee the complete security of information transmitted over the internet.",
+        "cookies": "Cookies",
+        "cookies_desc": "ViaApp Bot may use cookies to enhance user experience. However, these cookies do not collect or store personal information.",
+        "updates": "Updates",
+        "updates_desc": "Our privacy policy may be updated from time to time. Please check frequently to see the updated policies."
+    },
+    "servers": {
+        "select_server": "Select Server",
+        "logout": "Log out",
+        "manage": "Manage",
+        "add": "Add"
+    },
+    "dashboard": {
+        "servers": "Servers",
+        "logout": "Log out",
+        "home": "Home",
+        "server_manage": "Server Management",
+        "category_wg": "Login & Logout",
+        "home_description": "You can easily select and configure systems from the menu.",
+        "server_statistics": "Server Statistics",
+        "total_members": "Total Members",
+        "total_channels": "Total Channels",
+        "total_roles": "Total Roles",
+        "language": "Language",
+        "setting": "setting",
+        "set": "Set",
+        "welcome_system": {
+            "title": "Login & Logout",
+            "description": "Decide on what happens in cases of member participation or departure.",
+            "settings": "settings",
+            "channel": "Channel",
+            "choose_channel": "Choose a channel",
+            "role": "Role",
+            "choose_role": "Choose a role",
+            "bg_image_link": "Background image link",
+            "add_bg": "Add Background",
+            "autorole": "Autorole",
+            "counter": "Counter",
+            "target": "Target"
+        },
+        "ticket": {
+            "title": "Support System",
+            "description": "Provide support to your members on private channels.",
+            "category": "Category in which supports will be listed",
+            "choose_category": "Choose a category",
+            "log": "Log channel",
+            "role": "Staff role",
+            "embed_design": "Embed design",
+            "embed_title": "title",
+            "embed_description": "description",
+            "button_name": "Button name",
+            "channel_send": "Channel to send"
+        }
+    }
+}
