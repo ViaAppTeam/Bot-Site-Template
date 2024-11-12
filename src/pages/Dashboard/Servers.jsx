@@ -77,22 +77,6 @@ const Servers = () => {
                       <span>{guild.name}</span>
                     </div>
                   ))}
-                </>
-              ) : (
-                <>
-                  <div className='duration-300 flex flex-row items-center h-12 gap-2 bg-gray-800 rounded-lg'>
-                    <span className='ml-2 flex items-center justify-center bg-gray-600 rounded-full w-10 h-10 animate-pulse'></span>
-                    <span className='bg-gray-600 rounded-full px-8 py-1 animate-pulse'><span className='invisible'>{!lang ? "Lourity" : "Lourity"}</span></span>
-                  </div>
-                  <div className='duration-300 flex flex-row items-center h-12 gap-2 bg-gray-800 rounded-lg'>
-                    <span className='ml-2 flex items-center justify-center bg-gray-600 rounded-full w-10 h-10 animate-pulse'></span>
-                    <span className='bg-gray-600 rounded-full px-8 py-1 animate-pulse'><span className='invisible'>{!lang ? "Lourity" : "Lourity"}</span></span>
-                  </div>
-                  <div className='duration-300 flex flex-row items-center h-12 gap-2 bg-gray-800 rounded-lg'>
-                    <span className='ml-2 flex items-center justify-center bg-gray-600 rounded-full w-10 h-10 animate-pulse'></span>
-                    <span className='bg-gray-600 rounded-full px-8 py-1 animate-pulse'><span className='invisible'>{!lang ? "Lourity" : "Lourity"}</span></span>
-                  </div>
-                </>
               )}
             </div>
           </div>
