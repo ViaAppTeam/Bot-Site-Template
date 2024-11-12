@@ -1,7 +1,12 @@
 ## Required Modules
 ```
-discord.js: V14
-advanced-logs: V2.1.3
+    "@react-spring/web": "^9.7.3",
+    "axios": "^1.6.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^6.22.0",
+    "react-spinners": "^0.13.8"
 ```
 
 ## Things to Do After downloading the Template
