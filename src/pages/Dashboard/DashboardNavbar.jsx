@@ -73,13 +73,6 @@ const DashboardNavbar = () => {
                                     <span onClick={() => logOut()} className='cursor-pointer hover:bg-gray-800 py-2 px-2 rounded-md flex'><img className="w-6 mr-2" src="/logout.svg" alt="logout" /> {!lang ? "Çıkış yap" : "Log out"}</span>
                                 </div>
                             )}
-                        </div>
-                        :
-                        <div className='flex flex-row items-center gap-4 py-1 px-2'>
-                            <span className='bg-gray-700 rounded-full animate-pulse w-7 h-7'><span className='invisible'>L</span></span>
-                            <span className='bg-gray-700 rounded-xl py-1 px-2 ring-1 ring-white/5 animate-pulse'><span className='invisible'>Lourity</span></span>
-                            <i className="fa-solid fa-angle-down"></i>
-                        </div>
                     }
                 </div>
             </div>
