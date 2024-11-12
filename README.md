@@ -11,5 +11,5 @@
 
 ## Things to Do After downloading the Template
 > 1. Download the necessary modules by typing `npm i`.
-> 2. Enter the `config.js` file and enter your bot's token in the `BOT-TOKEN` section, your bot's ID in the `BOT-ID` section, and the Founder ID in the `OWNER-ID` section.
+> 2. Enter your api url in the `api_url` section in the `config.json` file, for example: https://api.viaapp.xyz/api then fill in the `dashboard_invite_url` section and then enter the bot's invite link in the `invite_url` section and fill in the `login_url` section.
 > 3. And as the last step, enter `node' into the console. You can start the bot by typing && npm start` or double-click the start.bat file and run the bot.
